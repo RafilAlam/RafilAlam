@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧠 I am a self taught Computer Science enthusiast<br>🫂 Sharing knowledge is my favorite way to learn<br>👨🏽‍💻 Freelance developer with real-world project experience<br>🌱 Exploring the frontiers of AI and algorithmic design<br>🌟 Main languages: Python, C++, C, HTML/CSS/JS, LUAU<br>🚩 Passionate about Game Dev, Full Stack Systems & AI/ML Solutions<br>⚡ Driven by curiosity, powered by code
+🧠 A self taught Computer Science enthusiast<br>🫂 Sharing knowledge is my favorite way to learn<br>👨🏽‍💻 Freelance developer with real-world project experience<br>🌱 Exploring the frontiers of AI and algorithmic design<br>🌟 Main languages: Python, C++, C, HTML/CSS/JS, LUAU<br>🚩 Passionate about Game Dev, Full Stack Systems & AI/ML Solutions<br>⚡ Driven by curiosity, powered by code
 
 
 ## 🌐 Socials:
