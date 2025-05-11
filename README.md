@@ -65,6 +65,7 @@
 
 ## Hardware / Embedded
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Espressif IDE](https://img.shields.io/badge/Espressif_IDE-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![Microbit](https://img.shields.io/badge/Microbit-0082FC?style=for-the-badge&logo=micro:bit&logoColor=white)
 ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
 ![CUDA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
