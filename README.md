@@ -1,7 +1,6 @@
 # 💫 About Me:
 #### 🧠 A self taught Computer Science enthusiast<br><br>🫂 Sharing knowledge is my favorite way to learn<br><br>👨🏽‍💻 Freelance developer with real-world project experience<br><br>🌱 Exploring the frontiers of AI and algorithmic design<br><br>🌟 Main languages: *Python, C++, C#, C, HTML, CSS, JS, LUA, LUAU, SQL*<br><br>🚩 Passionate about Game Dev, Full Stack Systems & AI/ML Solutions<br><br>⚡ Driven by curiosity, powered by code <br><br>
 
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/.memeathon) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/rafil.al.963/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rafil_alam) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafil-alam-973759364/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Rafilalam) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rafilalam009@gmail.com) 
 
@@ -52,6 +51,7 @@
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PlanetScale](https://img.shields.io/badge/planetscale-%23000000.svg?style=for-the-badge&logo=planetscale&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ## Tools & Platforms
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
