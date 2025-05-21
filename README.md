@@ -36,6 +36,7 @@
 ## Frameworks & Libraries
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Avalonia UI](https://img.shields.io/badge/AvaloniaUI-%235C2D91.svg?style=for-the-badge&logo=avalonia&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-FF4B4B?style=for-the-badge)
 ![Pygame](https://img.shields.io/badge/pygame-000000?style=for-the-badge&logo=pygame&logoColor=white)
 
