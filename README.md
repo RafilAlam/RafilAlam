@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👋 Hi, I'm Rafil!:
 ```
 🧠 Self taught Computer Scientist
 👨🏽‍💻 Freelance developer with real-world project experience
