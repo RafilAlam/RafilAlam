@@ -1,5 +1,5 @@
 # 💫 About Me:
-#### 🧠 A self taught Computer Science enthusiast<br><br>🫂 Sharing knowledge is my favorite way to learn<br><br>👨🏽‍💻 Freelance developer with real-world project experience<br><br>🌱 Exploring the frontiers of AI and algorithmic design<br><br>🌟 Main languages: *Python, C++, C#, C, HTML, CSS, JS, LUA, LUAU, SQL*<br><br>🚩 Passionate about Game Dev, Full Stack Systems & AI/ML Solutions<br><br>⚡ Driven by curiosity, powered by code <br><br>
+#### 🧠 Self taught Computer Scientist<br><br> 👨🏽‍💻 Freelance developer with real-world project experience<br><br>🌱 Up-to-Date with Technology and AI<br><br>🌟 Main languages: *Python, C++, C#, JS, TS, LUA, SQL*<br><br>🚩 I do *Software Development, Full Stack & AI*<br><br>⚡ Driven by curiosity, powered by code <br><br>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/.memeathon) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/rafil.al.963/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rafil_alam) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafil-alam-973759364/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Rafilalam) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rafilalam009@gmail.com) 
@@ -24,14 +24,10 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ## Game Development
 ![RayLib](https://img.shields.io/badge/RAYLIB-FFFFFF?style=for-the-badge&logo=raylib&logoColor=black)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/unreal%20engine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Roblox Studio](https://img.shields.io/badge/Roblox%20Studio-000000?style=for-the-badge&logo=roblox&logoColor=white)
-![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=scratch&logoColor=white)
 
 ## Frameworks & Libraries
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
