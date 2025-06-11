@@ -1,6 +1,11 @@
 # 💫 About Me:
 ```
-🧠 Self taught Computer Scientist<br><br> 👨🏽‍💻 Freelance developer with real-world project experience<br><br>🌱 Up-to-Date with Technology and AI<br><br>🌟 Main languages: *Python, C++, C#, JS, TS, LUA, SQL*<br><br>🚩 I do *Software Development, Full Stack & AI*<br><br>💼 Freelance Developer <br><br>
+🧠 Self taught Computer Scientist
+👨🏽‍💻 Freelance developer with real-world project experience
+🌱 Up-to-Date with Technology and AI
+🌟 Main languages: Python, C++, C#, JS, TS, LUA, SQL
+🚩 I do Software Development, Full Stack & AI
+💼 Freelance Developer
 ```
 
 ## 🌐 Socials:
