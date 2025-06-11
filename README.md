@@ -53,7 +53,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c)
 
-## Hardware / Embedded
+## Mechatronics
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Microbit](https://img.shields.io/badge/Microbit-0082FC?style=for-the-badge&logo=micro:bit&logoColor=white)
 <br><br>
