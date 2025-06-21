@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rafil!
 ```
-🧠 Self taught Computer Scientist
+🧠 Self taught Software Engineer
 👨🏽‍💻 Freelance developer with real-world project experience
 🌱 Up-to-Date with Technology and AI
 🌟 Main languages: Python, C++, C#, JS, TS, LUA, SQL
