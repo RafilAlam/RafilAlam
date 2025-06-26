@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Rafil!
-![Test Image 1](3DTest.png)
+![Test Image 1](https://github.com/RafilAlam/RafilAlam/blob/d8d2c2bd8d9d6baeda45457b7140affc6b6245df/banner.jpeg?raw=true)
 ```
 🧠 Self taught Software Engineer
 👨🏽‍💻 Freelance developer with real-world project experience
