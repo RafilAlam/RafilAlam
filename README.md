@@ -23,7 +23,7 @@
 <br>
 
 ## Game Development
-![Unity](https://img.shields.io/badge/Built%20With-Unity-000000?logo=unity&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)
 ![Roblox Studio](https://img.shields.io/badge/Roblox%20Studio-000000?style=for-the-badge&logo=roblox&logoColor=white)
 <br>
 
