@@ -23,6 +23,8 @@
 <br>
 
 ## Game Development
+![Unity](https://img.shields.io/badge/Engine-Unity-black?logo=unity)
+![C#](https://img.shields.io/badge/Code-C%23-239120?logo=csharp&logoColor=white)
 ![Roblox Studio](https://img.shields.io/badge/Roblox%20Studio-000000?style=for-the-badge&logo=roblox&logoColor=white)
 <br>
 
