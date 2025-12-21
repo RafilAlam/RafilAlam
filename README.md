@@ -47,9 +47,6 @@
 ![Micro:Bit](https://img.shields.io/badge/Microbit-0082FC?style=for-the-badge&logo=micro:bit&logoColor=white)
 <br><br>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=RafilAlam&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
-
 <br><br>
 
 ### ✍️ Random Dev Quote
