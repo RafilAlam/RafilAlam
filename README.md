@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Rafil!
 ```
 🧠 Self taught Software Engineer
-🌟 Main languages: C++, C#, JS, TS, LUA
+🌟 Comfortable languages: C, C++, C#, LUA
 ```
 
 ## 🌐 Socials:
