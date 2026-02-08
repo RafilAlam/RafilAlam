@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Rafil!
 ```
-🧠 Self taught Software Engineer
-🌟 Comfortable languages: C, C++, C#, LUA
+Self taught Software Engineer
+Comfortable languages: C, C++, C#, LUA
 ```
 
 <br>
