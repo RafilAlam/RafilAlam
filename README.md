@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rafil!
 ```
-Self taught Software Engineer
+Computer Engineering Diploma Student
 Comfortable languages: C, C++, C#, LUA
 ```
 
