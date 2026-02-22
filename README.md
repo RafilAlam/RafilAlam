@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rafil!
+# 👋 Hi, I'm Rafil
 ```
 Computer Engineering Diploma Student
 Preferred languages: C, C++
