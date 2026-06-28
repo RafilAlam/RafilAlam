@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rafil!
 ```
-Computer Engineering Diploma Student
+`Computer Engineering Diploma Student`
 I love building open-source projects
 
 ```
